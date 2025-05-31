@@ -1,4 +1,12 @@
-youtube.com
-googlevideo.com
-ytimg.com
-ggpht.com
+[SUPPORT]-------------------------------------
+# You can support by:
+#  - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# YouTube web block
+# ------------------------------------[FILTERS]-------------------------------------
+# 
+0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 ytimg.com
+0.0.0.0 ggpht.com
