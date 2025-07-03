@@ -17,3 +17,4 @@
 ||googlevideo.com^
 ||ytimg.com^
 ||ggpht.com^
+||m.youtube.com^
