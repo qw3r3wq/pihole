@@ -1,12 +1,19 @@
-[SUPPORT]-------------------------------------
-# You can support by:
-#  - reporting false positives
-# -------------------------------------[INFO]---------------------------------------
-#
-# YouTube web block
-# ------------------------------------[FILTERS]-------------------------------------
-# 
-0.0.0.0 youtube.com
-0.0.0.0 googlevideo.com
-0.0.0.0 ytimg.com
-0.0.0.0 ggpht.com
+! ------------------------------------[UPDATE]--------------------------------------
+! Title: YouTube Block
+! Expires: 1 day
+! Homepage: https://lpic.lt
+! Help: https://github.com/qw3r3wq/pihole/
+! License: https://unlicense.org
+! Total number of network filters: 3
+! ------------------------------------[SUPPORT]-------------------------------------
+! You can support by:
+! - reporting false positives
+! - making a donation: https:// [FIXME]
+! -------------------------------------[INFO]---------------------------------------
+!
+! YouTube list
+! ------------------------------------[FILTERS]-------------------------------------
+||youtube.com^
+||googlevideo.com^
+||ytimg.com^
+||ggpht.com^
